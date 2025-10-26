@@ -12,3 +12,5 @@ This project uses deep learning to classify chicken coccidiosis from fecal image
    ```bash
    git clone https://github.com/sohaib-kashif-97/Chicken-S--t-Detector-with-VGG19.git
    ```
+
+2. Install Images from Kaggle: The Images for Chicken Feces is entirely open-source. It allows us a knowledge base for our Deep Learning to identify ROIs in Images and classify healthy and unhealthy feces. Use this link to install the .zip file of the images: https://www.kaggle.com/datasets/vrajp3301/chicken-fecal-images-dataset
