@@ -10,5 +10,5 @@ This project uses deep learning to classify chicken coccidiosis from fecal image
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Classification-Chicken-Coccidiosis-Deep-Learning.git
+   git clone https://github.com/sohaib-kashif-97/Chicken-S--t-Detector-with-VGG19.git
    ```
